@@ -8,9 +8,9 @@ app = Flask(__name__)
 
 model1 = load_model('optimized_model1.h5')
 model2 = load_model('optimized_model2.h5')
-unoptimized_model = load_model('merged_model.h5')
+unoptimized_model = load_model('unoptimized_model.h5')
 
-# Assign weights to each model
+# Assigning weights to each model
 weights = {
     'unoptimized_model': 2,
     'optimized_model1': 1,
