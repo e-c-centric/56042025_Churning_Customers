@@ -76,8 +76,4 @@ Adjusting these weights can have an impact on the ensemble's overall performance
 
 # Link to Demo Video
 
-# <video src="Demo.mp4" contr
-
-Uploading Demo.mp4…
-
-ols title="Demo Video"></video>
+# https://youtu.be/sQ0du2TSKHo 
