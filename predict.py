@@ -13,7 +13,7 @@ unoptimized_model = load_model('unoptimized_model.h5')
 # Assigning weights to each model
 weights = {
     'unoptimized_model': 2,
-    'optimized_model1': 1,
+    'optimized_model1': 2,
     'optimized_model2': 1
 }
 
